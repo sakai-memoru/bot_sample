@@ -1,0 +1,23 @@
+{
+  "name": "boots",
+  "version": "0.0.0",
+  "private": true,
+  "author": "sakai.memoru <sakai.memoru@gmail.com>",
+  "description": "sample robot",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google": "^0.1.2",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.2.0",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.17.2",
+    "node-bing-api": "^3.0.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
